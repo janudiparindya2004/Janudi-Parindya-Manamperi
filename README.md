@@ -1,2 +1,39 @@
-# Janudi-Parindya-Manamperi
-The Hotel Room Management System allows customers to register, search rooms, book, modify or cancel reservations, make payments, and view history. Admin manages rooms, staff, and customer accounts. Staff handle and confirm bookings and view payment details. The system ensures efficient room allocation and secure data storage. 
+Hotel Room Management System
+ 📌 Description
+This is a Java GUI based Hotel Room  management system.
+1.	Customer Features
+•	Register account
+•	Login / Logout
+•	View available rooms
+•	Book room
+•	Cancel booking
+•	View booking history
+•	Make payment
+
+2.	Staff Features
+
+•	Login / Logout
+•	View bookings
+•	Update booking
+•	Delete booking
+•	Manage rooms
+•	View payments
+
+3.	Admin Features
+
+•	Login / Logout
+•	Manage customers
+•	Manage rooms (Add / Update / Delete)
+•	Manage staff
+•	Generate reports
+
+ Technologies
+
+•	Java
+•	Swing
+•	MySQL
+
+ How to Run
+
+Open project in IDE
+Run Main.java
